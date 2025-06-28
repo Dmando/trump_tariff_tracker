@@ -1,0 +1,195 @@
+﻿Country,Abbreviation,Continent,GDP,GDP Percentage,Adherence
+Afghanistan,AFG,Asia,19101353832.74,0.02,No
+Albania,ALB,Europe,15278077446.86,0.02,No
+Algeria,DZA,Africa,169988236398.13,0.18,No
+Andorra,AND,Europe,3154057987.24,0.00,No
+Angola,AGO,Africa,94635415869.99,0.10,No
+Antigua and Barbuda,ATG,N. America,1727759259.26,0.00,No
+Argentina,ARG,S. America,449663446954.07,0.49,No
+Armenia,ARM,Asia,13672802157.83,0.01,No
+Australia,AUS,Australia,1392680589329.14,1.51,No
+Austria,AUT,Europe,446314739528.47,0.48,No
+Azerbaijan,AZE,Asia,39207000000.00,0.04,No
+The Bahamas,BHS,N. America,12827000000.00,0.01,No
+Bahrain,BHR,Asia,38574069148.94,0.04,No
+Bangladesh,BGD,Asia,302571254131.14,0.33,No
+Barbados,BRB,N. America,5209000000.00,0.01,No
+Belarus,BLR,Europe,63080457022.66,0.07,No
+Belgium,BEL,Europe,529606710418.04,0.57,No
+Belize,BLZ,N. America,1879613600.00,0.00,No
+Benin,BEN,Africa,14390709094.94,0.02,No
+Bhutan,BTN,Asia,2446674101.37,0.00,No
+Bolivia,BOL,S. America,40895322865.41,0.04,No
+Bosnia and Herzegovina,BIH,Europe,20047848434.55,0.02,No
+Botswana,BWA,Africa,18340510789.43,0.02,No
+Brazil,BRA,S. America,1839758040765.62,2.00,No
+Brunei,BRN,Asia,13469422941.39,0.01,No
+Bulgaria,BGR,Europe,86000000000.00,0.09,No
+Burkina Faso,BFA,Africa,15745810234.66,0.02,No
+Burundi,BDI,Africa,3012334881.64,0.00,No
+Cape Verde,CPV,Africa,1981845740.71,0.00,No
+Cambodia,KHM,Asia,27089389786.97,0.03,No
+Cameroon,CMR,Africa,38760467033.39,0.04,No
+Canada,CAN,N. America,1736425629519.96,1.88,No
+Central African Republic,CAF,Africa,2220307368.70,0.00,No
+Chad,TCD,Africa,11314951342.78,0.01,No
+Chile,CHL,S. America,282318159744.65,0.31,No
+China,CHN,Asia,19910000000000.00,21.61,No
+Colombia,COL,S. America,323802808108.25,0.35,No
+Comoros,COM,Africa,1185728676.65,0.00,No
+Republic of the Congo,COG,Africa,10820591130.73,0.01,No
+Costa Rica,CRI,N. America,61773944173.67,0.07,No
+Ivory Coast,CIV,Africa,58792205642.15,0.06,No
+Croatia,HRV,Europe,60415553038.88,0.07,No
+Cuba,CUB,N. America,100023000000.00,0.11,No
+Cyprus,CYP,Asia,24564647934.62,0.03,No
+Czech Republic,CZE,Europe,246489245494.88,0.27,No
+Denmark,DNK,Europe,348078018463.91,0.38,No
+Djibouti,DJI,Africa,3318716359.44,0.00,No
+Dominica,DMA,N. America,596033333.33,0.00,No
+Dominican Republic,DOM,N. America,88941298257.72,0.10,No
+Democratic Republic of the Congo,COD,Africa,47319624204.09,0.05,No
+Ecuador,ECU,S. America,107435665000.00,0.12,No
+Egypt,EGY,Africa,303175127597.52,0.33,No
+El Salvador,SLV,N. America,27022640000.00,0.03,No
+Equatorial Guinea,GNQ,Africa,11026774945.34,0.01,No
+Eritrea,ERI,Africa,2065001626.02,0.00,No
+Estonia,EST,Europe,31386949981.24,0.03,No
+Eswatini,SWZ,Africa,3791304348.00,0.00,No
+Ethiopia,ETH,Africa,96107662398.17,0.10,No
+Fiji,FJI,Australia,5535548972.41,0.01,No
+Finland,FIN,Europe,268761201364.71,0.29,No
+France,FRA,Europe,2715518274227.45,2.95,No
+Gabon,GAB,Africa,16657960228.09,0.02,No
+The Gambia,GMB,Africa,1763819047.70,0.00,No
+Georgia,GEO,Asia,17743195770.20,0.02,No
+Germany,DEU,Europe,3845630030823.52,4.17,No
+Ghana,GHA,Africa,66983634223.94,0.07,No
+Greece,GRC,Europe,209852761468.68,0.23,No
+Grenada,GRD,N. America,1228170370.37,0.00,No
+Guatemala,GTM,N. America,76710385879.66,0.08,No
+Guinea,GIN,Africa,13590281808.69,0.01,No
+Guinea-Bissau,GNB,Africa,1340389410.76,0.00,No
+Guyana,GUY,S. America,4280443645.08,0.00,No
+Haiti,HTI,N. America,8498981820.87,0.01,No
+Honduras,HND,N. America,25095395475.04,0.03,No
+Hungary,HUN,Europe,160967157503.61,0.17,No
+Iceland,ISL,Europe,24188035738.78,0.03,No
+India,IND,Asia,2611000000000.01,2.83,No
+Indonesia,IDN,Asia,1119190780752.80,1.21,No
+Iran,IRN,Asia,445345282122.68,0.48,No
+Iraq,IRQ,Asia,234094042938.92,0.25,No
+Republic of Ireland,IRL,Europe,388698711348.16,0.42,No
+Israel,ISR,Asia,395098666121.62,0.43,No
+Italy,ITA,Europe,2001244392041.57,2.17,No
+Jamaica,JAM,N. America,16458071067.82,0.02,No
+Japan,JPN,Asia,5081769542379.77,5.52,No
+Jordan,JOR,Asia,43743661971.83,0.05,No
+Kazakhstan,KAZ,Asia,180161741180.15,0.20,No
+Kenya,KEN,Africa,95503088538.09,0.10,No
+Kiribati,KIR,Australia,194647201.95,0.00,No
+Kuwait,KWT,Asia,134761198945.98,0.15,No
+Kyrgyzstan,KGZ,Asia,8454619607.82,0.01,No
+Laos,LAO,Asia,18173839128.27,0.02,No
+Latvia,LVA,Europe,34117202555.07,0.04,No
+Lebanon,LBN,Asia,53367042272.17,0.06,No
+Lesotho,LSO,Africa,2460072443.63,0.00,No
+Liberia,LBR,Africa,3070518100.00,0.00,No
+Libya,LBY,Africa,52076250947.58,0.06,No
+Liechtenstein,LIE,Europe,6552858738.70,0.01,No
+Lithuania,LTU,Europe,54219315600.09,0.06,No
+Luxembourg,LUX,Europe,71104919108.14,0.08,No
+Madagascar,MDG,Africa,14083906356.62,0.02,No
+Malawi,MWI,Africa,7666704427.01,0.01,No
+Malaysia,MYS,Asia,364701517787.84,0.40,No
+Maldives,MDV,Asia,5729248472.24,0.01,No
+Mali,MLI,Africa,17510141171.34,0.02,No
+Malta,MLT,Europe,14786156563.30,0.02,No
+Marshall Islands,MHL,Australia,221278000.00,0.00,No
+Mauritania,MRT,Africa,7593752450.21,0.01,No
+Mauritius,MUS,Africa,14180444557.20,0.02,No
+Mexico,MEX,N. America,1258286717124.53,1.37,No
+Federated States of Micronesia,FSM,Australia,401932279.02,0.00,No
+Moldova,MDA,Europe,11955435456.80,0.01,No
+Monaco,MCO,Europe,7184844192.63,0.01,No
+Mongolia,MNG,Asia,13852850259.49,0.02,No
+Montenegro,MNE,Europe,5494736901.03,0.01,No
+Morocco,MAR,Africa,118725279596.13,0.13,No
+Mozambique,MOZ,Africa,14934159925.52,0.02,No
+Myanmar,MMR,Asia,76085852617.14,0.08,No
+Namibia,NAM,Africa,12366527719.33,0.01,No
+Nauru,NRU,Australia,133000000.00,0.00,No
+Nepal,NPL,Asia,30641380604.30,0.03,No
+Netherlands,NLD,Europe,909070395160.78,0.99,No
+New Zealand,NZL,Australia,206928765543.94,0.22,No
+Nicaragua,NIC,N. America,12520915291.18,0.01,No
+Niger,NER,Africa,12928145120.03,0.01,No
+Nigeria,NGA,Africa,448120428858.77,0.49,No
+North Korea,PRK,Asia,32100000000.00,0.03,No
+North Macedonia,MKD,Europe,10220781069.00,0.01,No
+Norway,NOR,Europe,403336363636.36,0.44,No
+Oman,OMN,Asia,76983094928.48,0.08,No
+Pakistan,PAK,Asia,304400000000.00,0.33,No
+Palau,PLW,Australia,283994900.00,0.00,No
+Panama,PAN,N. America,66800800000.00,0.07,No
+Papua New Guinea,PNG,Australia,24969611434.77,0.03,No
+Paraguay,PRY,S. America,38145288939.85,0.04,No
+Peru,PER,S. America,226848050819.53,0.25,No
+Philippines,PHL,Asia,376795508679.68,0.41,No
+Poland,POL,Europe,592164400687.61,0.64,No
+Portugal,PRT,Europe,237686075634.70,0.26,No
+Qatar,QAT,Asia,183466208791.21,0.20,No
+Romania,ROM,Europe,250077444017.08,0.27,No
+Russia,RUS,Europe,1699876578871.35,1.85,No
+Rwanda,RWA,Africa,10122472590.17,0.01,No
+Saint Kitts and Nevis,KNA,N. America,1050992592.59,0.00,No
+Saint Lucia,LCA,N. America,2122450629.63,0.00,No
+Samoa,WSM,Australia,850655017.22,0.00,No
+San Marino,SMR,Europe,1637931034.48,0.00,No
+São Tomé and Príncipe,STP,Africa,429016605.21,0.00,No
+Saudi Arabia,SAU,Asia,792966838161.66,0.86,No
+Senegal,SEN,Africa,23578084052.01,0.03,No
+Serbia,SRB,Europe,51409167350.75,0.06,No
+Seychelles,SYC,Africa,1698843062.76,0.00,No
+Sierra Leone,SLE,Africa,3941474310.77,0.00,No
+Singapore,SGP,Asia,372062527488.64,0.40,No
+Slovakia,SVK,Europe,105422304975.58,0.11,No
+Slovenia,SVN,Europe,53742159516.93,0.06,No
+Solomon Islands,SLB,Australia,1425074225.78,0.00,No
+Somalia,SOM,Africa,4720727278.19,0.01,No
+South Africa,ZAF,Africa,351431649241.44,0.38,No
+South Korea,KOR,Asia,2029000000000.00,2.20,No
+South Sudan,SSD,Africa,11997800751.06,0.01,No
+Spain,ESP,Europe,1394116310768.63,1.51,No
+Sri Lanka,LKA,Asia,84008783756.07,0.09,No
+Saint Vincent and the Grenadines,VCT,N. America,825385185.19,0.00,No
+Palestinian Authority,PSE,Asia,4015865744.00,0.00,No
+Sudan,SDN,Africa,18902284475.61,0.02,No
+Suriname,SUR,S. America,3985250737.46,0.00,No
+Sweden,SWE,Europe,530832908737.86,0.58,No
+Switzerland,CHE,Europe,703082435360.12,0.76,No
+Syria,SYR,Asia,40405006007.21,0.04,No
+Tajikistan,TJK,Asia,8116626794.26,0.01,No
+Tanzania,TZA,Africa,63177068174.55,0.07,No
+Thailand,THA,Asia,543649976165.63,0.59,No
+Timor-Leste,TLS,Asia,1673540300.00,0.00,No
+Togo,TGO,Africa,5459979416.67,0.01,No
+Tonga,TON,Australia,450353313.88,0.00,No
+Trinidad and Tobago,TTO,N. America,24100202833.75,0.03,No
+Tunisia,TUN,Africa,38797709923.66,0.04,No
+Turkey,TUR,Asia,754411708202.62,0.82,No
+Turkmenistan,TKM,Asia,40761142857.14,0.04,No
+Tuvalu,TUV,Australia,47271463.33,0.00,No
+Uganda,UGA,Africa,34387229486.40,0.04,No
+Ukraine,UKR,Europe,153781069118.15,0.17,No
+United Arab Emirates,ARE,Asia,421142267937.65,0.46,No
+United Kingdom,GBR,Europe,2827113184695.58,3.07,Partial
+United States,USA,N. America,21427700000000.00,23.26,Full
+Uruguay,URY,S. America,56045912952.34,0.06,No
+Uzbekistan,UZB,Asia,57921286440.35,0.06,No
+Vanuatu,VUT,Australia,917058850.82,0.00,No
+Venezuela,VEN,S. America,482359318767.70,0.52,No
+Vietnam,VNM,Asia,261921244843.17,0.28,No
+Yemen,YEM,Asia,26914402223.78,0.03,No
+Zambia,ZMB,Africa,23064722446.35,0.03,No
+Zimbabwe,ZWE,Africa,21440758800.00,0.02,No
