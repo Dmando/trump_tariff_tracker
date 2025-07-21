@@ -1,195 +1,397 @@
-﻿Country,Abbreviation,Continent,GDP,GDP Percentage,Adherence
-Afghanistan,AFG,Asia,19101353832.74,0.02,No
-Albania,ALB,Europe,15278077446.86,0.02,No
-Algeria,DZA,Africa,169988236398.13,0.18,No
-Andorra,AND,Europe,3154057987.24,0.00,No
-Angola,AGO,Africa,94635415869.99,0.10,No
-Antigua and Barbuda,ATG,N. America,1727759259.26,0.00,No
-Argentina,ARG,S. America,449663446954.07,0.49,No
-Armenia,ARM,Asia,13672802157.83,0.01,No
-Australia,AUS,Australia,1392680589329.14,1.51,No
-Austria,AUT,Europe,446314739528.47,0.48,No
-Azerbaijan,AZE,Asia,39207000000.00,0.04,No
-The Bahamas,BHS,N. America,12827000000.00,0.01,No
-Bahrain,BHR,Asia,38574069148.94,0.04,No
-Bangladesh,BGD,Asia,302571254131.14,0.33,No
-Barbados,BRB,N. America,5209000000.00,0.01,No
-Belarus,BLR,Europe,63080457022.66,0.07,No
-Belgium,BEL,Europe,529606710418.04,0.57,No
-Belize,BLZ,N. America,1879613600.00,0.00,No
-Benin,BEN,Africa,14390709094.94,0.02,No
-Bhutan,BTN,Asia,2446674101.37,0.00,No
-Bolivia,BOL,S. America,40895322865.41,0.04,No
-Bosnia and Herzegovina,BIH,Europe,20047848434.55,0.02,No
-Botswana,BWA,Africa,18340510789.43,0.02,No
-Brazil,BRA,S. America,1839758040765.62,2.00,No
-Brunei,BRN,Asia,13469422941.39,0.01,No
-Bulgaria,BGR,Europe,86000000000.00,0.09,No
-Burkina Faso,BFA,Africa,15745810234.66,0.02,No
-Burundi,BDI,Africa,3012334881.64,0.00,No
-Cape Verde,CPV,Africa,1981845740.71,0.00,No
-Cambodia,KHM,Asia,27089389786.97,0.03,No
-Cameroon,CMR,Africa,38760467033.39,0.04,No
-Canada,CAN,N. America,1736425629519.96,1.88,No
-Central African Republic,CAF,Africa,2220307368.70,0.00,No
-Chad,TCD,Africa,11314951342.78,0.01,No
-Chile,CHL,S. America,282318159744.65,0.31,No
-China,CHN,Asia,19910000000000.00,21.61,No
-Colombia,COL,S. America,323802808108.25,0.35,No
-Comoros,COM,Africa,1185728676.65,0.00,No
-Republic of the Congo,COG,Africa,10820591130.73,0.01,No
-Costa Rica,CRI,N. America,61773944173.67,0.07,No
-Ivory Coast,CIV,Africa,58792205642.15,0.06,No
-Croatia,HRV,Europe,60415553038.88,0.07,No
-Cuba,CUB,N. America,100023000000.00,0.11,No
-Cyprus,CYP,Asia,24564647934.62,0.03,No
-Czech Republic,CZE,Europe,246489245494.88,0.27,No
-Denmark,DNK,Europe,348078018463.91,0.38,No
-Djibouti,DJI,Africa,3318716359.44,0.00,No
-Dominica,DMA,N. America,596033333.33,0.00,No
-Dominican Republic,DOM,N. America,88941298257.72,0.10,No
-Democratic Republic of the Congo,COD,Africa,47319624204.09,0.05,No
-Ecuador,ECU,S. America,107435665000.00,0.12,No
-Egypt,EGY,Africa,303175127597.52,0.33,No
-El Salvador,SLV,N. America,27022640000.00,0.03,No
-Equatorial Guinea,GNQ,Africa,11026774945.34,0.01,No
-Eritrea,ERI,Africa,2065001626.02,0.00,No
-Estonia,EST,Europe,31386949981.24,0.03,No
-Eswatini,SWZ,Africa,3791304348.00,0.00,No
-Ethiopia,ETH,Africa,96107662398.17,0.10,No
-Fiji,FJI,Australia,5535548972.41,0.01,No
-Finland,FIN,Europe,268761201364.71,0.29,No
-France,FRA,Europe,2715518274227.45,2.95,No
-Gabon,GAB,Africa,16657960228.09,0.02,No
-The Gambia,GMB,Africa,1763819047.70,0.00,No
-Georgia,GEO,Asia,17743195770.20,0.02,No
-Germany,DEU,Europe,3845630030823.52,4.17,No
-Ghana,GHA,Africa,66983634223.94,0.07,No
-Greece,GRC,Europe,209852761468.68,0.23,No
-Grenada,GRD,N. America,1228170370.37,0.00,No
-Guatemala,GTM,N. America,76710385879.66,0.08,No
-Guinea,GIN,Africa,13590281808.69,0.01,No
-Guinea-Bissau,GNB,Africa,1340389410.76,0.00,No
-Guyana,GUY,S. America,4280443645.08,0.00,No
-Haiti,HTI,N. America,8498981820.87,0.01,No
-Honduras,HND,N. America,25095395475.04,0.03,No
-Hungary,HUN,Europe,160967157503.61,0.17,No
-Iceland,ISL,Europe,24188035738.78,0.03,No
-India,IND,Asia,2611000000000.01,2.83,No
-Indonesia,IDN,Asia,1119190780752.80,1.21,No
-Iran,IRN,Asia,445345282122.68,0.48,No
-Iraq,IRQ,Asia,234094042938.92,0.25,No
-Republic of Ireland,IRL,Europe,388698711348.16,0.42,No
-Israel,ISR,Asia,395098666121.62,0.43,No
-Italy,ITA,Europe,2001244392041.57,2.17,No
-Jamaica,JAM,N. America,16458071067.82,0.02,No
-Japan,JPN,Asia,5081769542379.77,5.52,No
-Jordan,JOR,Asia,43743661971.83,0.05,No
-Kazakhstan,KAZ,Asia,180161741180.15,0.20,No
-Kenya,KEN,Africa,95503088538.09,0.10,No
-Kiribati,KIR,Australia,194647201.95,0.00,No
-Kuwait,KWT,Asia,134761198945.98,0.15,No
-Kyrgyzstan,KGZ,Asia,8454619607.82,0.01,No
-Laos,LAO,Asia,18173839128.27,0.02,No
-Latvia,LVA,Europe,34117202555.07,0.04,No
-Lebanon,LBN,Asia,53367042272.17,0.06,No
-Lesotho,LSO,Africa,2460072443.63,0.00,No
-Liberia,LBR,Africa,3070518100.00,0.00,No
-Libya,LBY,Africa,52076250947.58,0.06,No
-Liechtenstein,LIE,Europe,6552858738.70,0.01,No
-Lithuania,LTU,Europe,54219315600.09,0.06,No
-Luxembourg,LUX,Europe,71104919108.14,0.08,No
-Madagascar,MDG,Africa,14083906356.62,0.02,No
-Malawi,MWI,Africa,7666704427.01,0.01,No
-Malaysia,MYS,Asia,364701517787.84,0.40,No
-Maldives,MDV,Asia,5729248472.24,0.01,No
-Mali,MLI,Africa,17510141171.34,0.02,No
-Malta,MLT,Europe,14786156563.30,0.02,No
-Marshall Islands,MHL,Australia,221278000.00,0.00,No
-Mauritania,MRT,Africa,7593752450.21,0.01,No
-Mauritius,MUS,Africa,14180444557.20,0.02,No
-Mexico,MEX,N. America,1258286717124.53,1.37,No
-Federated States of Micronesia,FSM,Australia,401932279.02,0.00,No
-Moldova,MDA,Europe,11955435456.80,0.01,No
-Monaco,MCO,Europe,7184844192.63,0.01,No
-Mongolia,MNG,Asia,13852850259.49,0.02,No
-Montenegro,MNE,Europe,5494736901.03,0.01,No
-Morocco,MAR,Africa,118725279596.13,0.13,No
-Mozambique,MOZ,Africa,14934159925.52,0.02,No
-Myanmar,MMR,Asia,76085852617.14,0.08,No
-Namibia,NAM,Africa,12366527719.33,0.01,No
-Nauru,NRU,Australia,133000000.00,0.00,No
-Nepal,NPL,Asia,30641380604.30,0.03,No
-Netherlands,NLD,Europe,909070395160.78,0.99,No
-New Zealand,NZL,Australia,206928765543.94,0.22,No
-Nicaragua,NIC,N. America,12520915291.18,0.01,No
-Niger,NER,Africa,12928145120.03,0.01,No
-Nigeria,NGA,Africa,448120428858.77,0.49,No
-North Korea,PRK,Asia,32100000000.00,0.03,No
-North Macedonia,MKD,Europe,10220781069.00,0.01,No
-Norway,NOR,Europe,403336363636.36,0.44,No
-Oman,OMN,Asia,76983094928.48,0.08,No
-Pakistan,PAK,Asia,304400000000.00,0.33,No
-Palau,PLW,Australia,283994900.00,0.00,No
-Panama,PAN,N. America,66800800000.00,0.07,No
-Papua New Guinea,PNG,Australia,24969611434.77,0.03,No
-Paraguay,PRY,S. America,38145288939.85,0.04,No
-Peru,PER,S. America,226848050819.53,0.25,No
-Philippines,PHL,Asia,376795508679.68,0.41,No
-Poland,POL,Europe,592164400687.61,0.64,No
-Portugal,PRT,Europe,237686075634.70,0.26,No
-Qatar,QAT,Asia,183466208791.21,0.20,No
-Romania,ROM,Europe,250077444017.08,0.27,No
-Russia,RUS,Europe,1699876578871.35,1.85,No
-Rwanda,RWA,Africa,10122472590.17,0.01,No
-Saint Kitts and Nevis,KNA,N. America,1050992592.59,0.00,No
-Saint Lucia,LCA,N. America,2122450629.63,0.00,No
-Samoa,WSM,Australia,850655017.22,0.00,No
-San Marino,SMR,Europe,1637931034.48,0.00,No
-São Tomé and Príncipe,STP,Africa,429016605.21,0.00,No
-Saudi Arabia,SAU,Asia,792966838161.66,0.86,No
-Senegal,SEN,Africa,23578084052.01,0.03,No
-Serbia,SRB,Europe,51409167350.75,0.06,No
-Seychelles,SYC,Africa,1698843062.76,0.00,No
-Sierra Leone,SLE,Africa,3941474310.77,0.00,No
-Singapore,SGP,Asia,372062527488.64,0.40,No
-Slovakia,SVK,Europe,105422304975.58,0.11,No
-Slovenia,SVN,Europe,53742159516.93,0.06,No
-Solomon Islands,SLB,Australia,1425074225.78,0.00,No
-Somalia,SOM,Africa,4720727278.19,0.01,No
-South Africa,ZAF,Africa,351431649241.44,0.38,No
-South Korea,KOR,Asia,2029000000000.00,2.20,No
-South Sudan,SSD,Africa,11997800751.06,0.01,No
-Spain,ESP,Europe,1394116310768.63,1.51,No
-Sri Lanka,LKA,Asia,84008783756.07,0.09,No
-Saint Vincent and the Grenadines,VCT,N. America,825385185.19,0.00,No
-Palestinian Authority,PSE,Asia,4015865744.00,0.00,No
-Sudan,SDN,Africa,18902284475.61,0.02,No
-Suriname,SUR,S. America,3985250737.46,0.00,No
-Sweden,SWE,Europe,530832908737.86,0.58,No
-Switzerland,CHE,Europe,703082435360.12,0.76,No
-Syria,SYR,Asia,40405006007.21,0.04,No
-Tajikistan,TJK,Asia,8116626794.26,0.01,No
-Tanzania,TZA,Africa,63177068174.55,0.07,No
-Thailand,THA,Asia,543649976165.63,0.59,No
-Timor-Leste,TLS,Asia,1673540300.00,0.00,No
-Togo,TGO,Africa,5459979416.67,0.01,No
-Tonga,TON,Australia,450353313.88,0.00,No
-Trinidad and Tobago,TTO,N. America,24100202833.75,0.03,No
-Tunisia,TUN,Africa,38797709923.66,0.04,No
-Turkey,TUR,Asia,754411708202.62,0.82,No
-Turkmenistan,TKM,Asia,40761142857.14,0.04,No
-Tuvalu,TUV,Australia,47271463.33,0.00,No
-Uganda,UGA,Africa,34387229486.40,0.04,No
-Ukraine,UKR,Europe,153781069118.15,0.17,No
-United Arab Emirates,ARE,Asia,421142267937.65,0.46,No
-United Kingdom,GBR,Europe,2827113184695.58,3.07,Partial
-United States,USA,N. America,21427700000000.00,23.26,Full
-Uruguay,URY,S. America,56045912952.34,0.06,No
-Uzbekistan,UZB,Asia,57921286440.35,0.06,No
-Vanuatu,VUT,Australia,917058850.82,0.00,No
-Venezuela,VEN,S. America,482359318767.70,0.52,No
-Vietnam,VNM,Asia,261921244843.17,0.28,No
-Yemen,YEM,Asia,26914402223.78,0.03,No
-Zambia,ZMB,Africa,23064722446.35,0.03,No
-Zimbabwe,ZWE,Africa,21440758800.00,0.02,No
+﻿Country,Abbreviation,Continent,GDP,GDP Percentage,Adherence,Date
+Afghanistan,AFG,Asia,19101353833,0.02,Full,1/1/2010
+Afghanistan,AFG,Asia,19101353833,0.02,No,8/15/2021
+Albania,ALB,Europe,15278077447,0.02,Full,1/1/2010
+Albania,ALB,Europe,15278077447,0.02,No,4/2/2025
+Algeria,DZA,Africa,1.69988E+11,0.18,Partial,1/1/2010
+Algeria,DZA,Africa,1.69988E+11,0.18,No,4/2/2025
+Andorra,AND,Europe,3154057987,0,Partial,1/1/2010
+Andorra,AND,Europe,3154057987,0,No,4/2/2025
+Angola,AGO,Africa,94635415870,0.1,Full,1/1/2010
+Angola,AGO,Africa,94635415870,0.1,No,4/2/2025
+Antigua and Barbuda,ATG,N. America,1727759259,0,Full,1/1/2010
+Antigua and Barbuda,ATG,N. America,1727759259,0,No,4/2/2025
+Argentina,ARG,S. America,4.49663E+11,0.49,Full,1/1/2010
+Argentina,ARG,S. America,4.49663E+11,0.49,No,4/2/2025
+Armenia,ARM,Asia,13672802158,0.01,Full,1/1/2010
+Armenia,ARM,Asia,13672802158,0.01,No,4/2/2025
+Australia,AUS,Australia,1.39268E+12,1.51,Full,1/1/2010
+Australia,AUS,Australia,1.39268E+12,1.51,No,4/2/2025
+Austria,AUT,Europe,4.46315E+11,0.48,Full,1/1/2010
+Austria,AUT,Europe,4.46315E+11,0.48,No,4/2/2025
+Azerbaijan,AZE,Asia,39207000000,0.04,Partial,1/1/2010
+Azerbaijan,AZE,Asia,39207000000,0.04,No,4/2/2025
+The Bahamas,BHS,N. America,12827000000,0.01,Partial,1/1/2010
+The Bahamas,BHS,N. America,12827000000,0.01,No,4/2/2025
+Bahrain,BHR,Asia,38574069149,0.04,Full,1/1/2010
+Bahrain,BHR,Asia,38574069149,0.04,No,4/2/2025
+Bangladesh,BGD,Asia,3.02571E+11,0.33,Full,1/1/2010
+Bangladesh,BGD,Asia,3.02571E+11,0.33,No,4/2/2025
+Barbados,BRB,N. America,5209000000,0.01,Full,1/1/2010
+Barbados,BRB,N. America,5209000000,0.01,No,4/2/2025
+Belarus,BLR,Europe,63080457023,0.07,Partial,1/1/2010
+Belarus,BLR,Europe,63080457023,0.07,No,4/2/2025
+Belgium,BEL,Europe,5.29607E+11,0.57,Full,1/1/2010
+Belgium,BEL,Europe,5.29607E+11,0.57,No,4/2/2025
+Belize,BLZ,N. America,1879613600,0,Full,1/1/2010
+Belize,BLZ,N. America,1879613600,0,No,4/2/2025
+Benin,BEN,Africa,14390709095,0.02,Full,1/1/2010
+Benin,BEN,Africa,14390709095,0.02,No,4/2/2025
+Bhutan,BTN,Asia,2446674101,0,Partial,1/1/2010
+Bhutan,BTN,Asia,2446674101,0,No,4/2/2025
+Bolivia,BOL,S. America,40895322865,0.04,Full,1/1/2010
+Bolivia,BOL,S. America,40895322865,0.04,No,4/2/2025
+Bosnia and Herzegovina,BIH,Europe,20047848435,0.02,Partial,1/1/2010
+Bosnia and Herzegovina,BIH,Europe,20047848435,0.02,No,4/2/2025
+Botswana,BWA,Africa,18340510789,0.02,Full,1/1/2010
+Botswana,BWA,Africa,18340510789,0.02,No,4/2/2025
+Brazil,BRA,S. America,1.83976E+12,2,Full,1/1/2010
+Brazil,BRA,S. America,1.83976E+12,2,No,4/2/2025
+Brunei,BRN,Asia,13469422941,0.01,Full,1/1/2010
+Brunei,BRN,Asia,13469422941,0.01,No,4/2/2025
+Bulgaria,BGR,Europe,86000000000,0.09,Full,1/1/2010
+Bulgaria,BGR,Europe,86000000000,0.09,No,4/2/2025
+Burkina Faso,BFA,Africa,15745810235,0.02,Full,1/1/2010
+Burkina Faso,BFA,Africa,15745810235,0.02,No,4/2/2025
+Burundi,BDI,Africa,3012334882,0,Full,1/1/2010
+Burundi,BDI,Africa,3012334882,0,No,4/2/2025
+Cape Verde,CPV,Africa,1981845741,0,Full,1/1/2010
+Cape Verde,CPV,Africa,1981845741,0,No,4/2/2025
+Cambodia,KHM,Asia,27089389787,0.03,Full,1/1/2010
+Cambodia,KHM,Asia,27089389787,0.03,No,4/2/2025
+Cameroon,CMR,Africa,38760467033,0.04,Full,1/1/2010
+Cameroon,CMR,Africa,38760467033,0.04,No,4/2/2025
+Canada,CAN,N. America,1.73643E+12,1.88,Full,1/1/2010
+Canada,CAN,N. America,1.73643E+12,1.88,No,4/2/2025
+Central African Republic,CAF,Africa,2220307369,0,Full,1/1/2010
+Central African Republic,CAF,Africa,2220307369,0,No,4/2/2025
+Chad,TCD,Africa,11314951343,0.01,Full,1/1/2010
+Chad,TCD,Africa,11314951343,0.01,No,4/2/2025
+Chile,CHL,S. America,2.82318E+11,0.31,Full,1/1/2010
+Chile,CHL,S. America,2.82318E+11,0.31,No,4/2/2025
+China,CHN,Asia,19910000000000.00,21.61,Full,1/1/2010
+China,CHN,Asia,19910000000000.00,21.61,Partial,1/22/2018
+China,CHN,Asia,19910000000000.00,21.61,No,4/2/2025
+Colombia,COL,S. America,3.23803E+11,0.35,Full,1/1/2010
+Colombia,COL,S. America,3.23803E+11,0.35,No,4/2/2025
+Comoros,COM,Africa,1185728677,0,Partial,1/1/2010
+Comoros,COM,Africa,1185728677,0,Full,8/21/2024
+Comoros,COM,Africa,1185728677,0,No,4/2/2025
+Republic of the Congo,COG,Africa,10820591131,0.01,Full,1/1/2010
+Republic of the Congo,COG,Africa,10820591131,0.01,No,4/2/2025
+Costa Rica,CRI,N. America,61773944174,0.07,Full,1/1/2010
+Costa Rica,CRI,N. America,61773944174,0.07,No,4/2/2025
+Ivory Coast,CIV,Africa,58792205642,0.06,Full,1/1/2010
+Ivory Coast,CIV,Africa,58792205642,0.06,No,4/2/2025
+Croatia,HRV,Europe,60415553039,0.07,Full,1/1/2010
+Croatia,HRV,Europe,60415553039,0.07,No,4/2/2025
+Cuba,CUB,N. America,1.00023E+11,0.11,No,1/1/2010
+Cyprus,CYP,Asia,24564647935,0.03,Full,1/1/2010
+Cyprus,CYP,Asia,24564647935,0.03,No,4/2/2025
+Czech Republic,CZE,Europe,2.46489E+11,0.27,Full,1/1/2010
+Czech Republic,CZE,Europe,2.46489E+11,0.27,No,4/2/2025
+Denmark,DNK,Europe,3.48078E+11,0.38,Full,1/1/2010
+Denmark,DNK,Europe,3.48078E+11,0.38,No,4/2/2025
+Djibouti,DJI,Africa,3318716359,0,Full,1/1/2010
+Djibouti,DJI,Africa,3318716359,0,No,4/2/2025
+Dominica,DMA,N. America,596033333.3,0,Full,1/1/2010
+Dominica,DMA,N. America,596033333.3,0,No,4/2/2025
+Dominican Republic,DOM,N. America,88941298258,0.1,Full,1/1/2010
+Dominican Republic,DOM,N. America,88941298258,0.1,No,4/2/2025
+Democratic Republic of the Congo,COD,Africa,47319624204,0.05,Full,1/1/2010
+Democratic Republic of the Congo,COD,Africa,47319624204,0.05,No,4/2/2025
+Ecuador,ECU,S. America,1.07436E+11,0.12,Full,1/1/2010
+Ecuador,ECU,S. America,1.07436E+11,0.12,No,4/2/2025
+Egypt,EGY,Africa,3.03175E+11,0.33,Full,1/1/2010
+Egypt,EGY,Africa,3.03175E+11,0.33,No,4/2/2025
+El Salvador,SLV,N. America,27022640000,0.03,Full,1/1/2010
+El Salvador,SLV,N. America,27022640000,0.03,No,4/2/2025
+Equatorial Guinea,GNQ,Africa,11026774945,0.01,Partial,1/1/2010
+Equatorial Guinea,GNQ,Africa,11026774945,0.01,No,4/2/2025
+Eritrea,ERI,Africa,2065001626,0,No,1/1/2010
+Estonia,EST,Europe,31386949981,0.03,Full,1/1/2010
+Estonia,EST,Europe,31386949981,0.03,No,4/2/2025
+Eswatini,SWZ,Africa,3791304348,0,Full,1/1/2010
+Eswatini,SWZ,Africa,3791304348,0,No,4/2/2025
+Ethiopia,ETH,Africa,96107662398,0.1,Partial,1/1/2010
+Ethiopia,ETH,Africa,96107662398,0.1,No,4/2/2025
+Fiji,FJI,Australia,5535548972,0.01,Full,1/1/2010
+Fiji,FJI,Australia,5535548972,0.01,No,4/2/2025
+Finland,FIN,Europe,2.68761E+11,0.29,Full,1/1/2010
+Finland,FIN,Europe,2.68761E+11,0.29,No,4/2/2025
+France,FRA,Europe,2.71552E+12,2.95,Full,1/1/2010
+France,FRA,Europe,2.71552E+12,2.95,No,4/2/2025
+Gabon,GAB,Africa,16657960228,0.02,Full,1/1/2010
+Gabon,GAB,Africa,16657960228,0.02,No,4/2/2025
+The Gambia,GMB,Africa,1763819048,0,Full,1/1/2010
+The Gambia,GMB,Africa,1763819048,0,No,4/2/2025
+Georgia,GEO,Asia,17743195770,0.02,Full,1/1/2010
+Georgia,GEO,Asia,17743195770,0.02,No,4/2/2025
+Germany,DEU,Europe,3.84563E+12,4.17,Full,1/1/2010
+Germany,DEU,Europe,3.84563E+12,4.17,No,4/2/2025
+Ghana,GHA,Africa,66983634224,0.07,Full,1/1/2010
+Ghana,GHA,Africa,66983634224,0.07,No,4/2/2025
+Greece,GRC,Europe,2.09853E+11,0.23,Full,1/1/2010
+Greece,GRC,Europe,2.09853E+11,0.23,No,4/2/2025
+Grenada,GRD,N. America,1228170370,0,Full,1/1/2010
+Grenada,GRD,N. America,1228170370,0,No,4/2/2025
+Guatemala,GTM,N. America,76710385880,0.08,Full,1/1/2010
+Guatemala,GTM,N. America,76710385880,0.08,No,4/2/2025
+Guinea,GIN,Africa,13590281809,0.01,Full,1/1/2010
+Guinea,GIN,Africa,13590281809,0.01,No,4/2/2025
+Guinea-Bissau,GNB,Africa,1340389411,0,Full,1/1/2010
+Guinea-Bissau,GNB,Africa,1340389411,0,No,4/2/2025
+Guyana,GUY,S. America,4280443645,0,Full,1/1/2010
+Guyana,GUY,S. America,4280443645,0,No,4/2/2025
+Haiti,HTI,N. America,8498981821,0.01,Full,1/1/2010
+Haiti,HTI,N. America,8498981821,0.01,No,4/2/2025
+Honduras,HND,N. America,25095395475,0.03,Full,1/1/2010
+Honduras,HND,N. America,25095395475,0.03,No,4/2/2025
+Hungary,HUN,Europe,1.60967E+11,0.17,Full,1/1/2010
+Hungary,HUN,Europe,1.60967E+11,0.17,No,4/2/2025
+Iceland,ISL,Europe,24188035739,0.03,Full,1/1/2010
+Iceland,ISL,Europe,24188035739,0.03,No,4/2/2025
+India,IND,Asia,2.611E+12,2.83,Full,1/1/2010
+India,IND,Asia,2.611E+12,2.83,No,4/2/2025
+Indonesia,IDN,Asia,1.11919E+12,1.21,Full,1/1/2010
+Indonesia,IDN,Asia,1.11919E+12,1.21,No,4/2/2025
+Iran,IRN,Asia,4.45345E+11,0.48,No,1/1/2010
+Iraq,IRQ,Asia,2.34094E+11,0.25,Partial,1/1/2010
+Iraq,IRQ,Asia,2.34094E+11,0.25,No,4/2/2025
+Republic of Ireland,IRL,Europe,3.88699E+11,0.42,Full,1/1/2010
+Republic of Ireland,IRL,Europe,3.88699E+11,0.42,No,4/2/2025
+Israel,ISR,Asia,3.95099E+11,0.43,Full,1/1/2010
+Israel,ISR,Asia,3.95099E+11,0.43,No,4/2/2025
+Italy,ITA,Europe,2.00124E+12,2.17,Full,1/1/2010
+Italy,ITA,Europe,2.00124E+12,2.17,No,4/2/2025
+Jamaica,JAM,N. America,16458071068,0.02,Full,1/1/2010
+Jamaica,JAM,N. America,16458071068,0.02,No,4/2/2025
+Japan,JPN,Asia,5.08177E+12,5.52,Full,1/1/2010
+Japan,JPN,Asia,5.08177E+12,5.52,No,4/2/2025
+Jordan,JOR,Asia,43743661972,0.05,Full,1/1/2010
+Jordan,JOR,Asia,43743661972,0.05,No,4/2/2025
+Kazakhstan,KAZ,Asia,1.80162E+11,0.2,Partial,1/1/2010
+Kazakhstan,KAZ,Asia,1.80162E+11,0.2,Full,11/30/2015
+Kazakhstan,KAZ,Asia,1.80162E+11,0.2,No,4/2/2025
+Kenya,KEN,Africa,95503088538,0.1,Full,1/1/2010
+Kenya,KEN,Africa,95503088538,0.1,No,4/2/2025
+Kiribati,KIR,Australia,194647202,0,Full,1/1/2010
+Kiribati,KIR,Australia,194647202,0,No,4/2/2025
+Kuwait,KWT,Asia,1.34761E+11,0.15,Full,1/1/2010
+Kuwait,KWT,Asia,1.34761E+11,0.15,No,4/2/2025
+Kyrgyzstan,KGZ,Asia,8454619608,0.01,Full,1/1/2010
+Kyrgyzstan,KGZ,Asia,8454619608,0.01,No,4/2/2025
+Laos,LAO,Asia,18173839128,0.02,Partial ,1/1/2010
+Laos,LAO,Asia,18173839128,0.02,Full,2/2/2013
+Laos,LAO,Asia,18173839128,0.02,No,4/2/2025
+Latvia,LVA,Europe,34117202555,0.04,Full,1/1/2010
+Latvia,LVA,Europe,34117202555,0.04,No,4/2/2025
+Lebanon,LBN,Asia,53367042272,0.06,Partial,1/1/2010
+Lebanon,LBN,Asia,53367042272,0.06,No,4/2/2025
+Lesotho,LSO,Africa,2460072444,0,Full,1/1/2010
+Lesotho,LSO,Africa,2460072444,0,No,4/2/2025
+Liberia,LBR,Africa,3070518100,0,Partial,1/1/2010
+Liberia,LBR,Africa,3070518100,0,Full,6/14/2016
+Liberia,LBR,Africa,3070518100,0,No,4/2/2025
+Libya,LBY,Africa,52076250948,0.06,Partial,1/1/2010
+Libya,LBY,Africa,52076250948,0.06,No,4/2/2025
+Liechtenstein,LIE,Europe,6552858739,0.01,Full,1/1/2010
+Liechtenstein,LIE,Europe,6552858739,0.01,No,4/2/2025
+Lithuania,LTU,Europe,54219315600,0.06,Full,1/1/2010
+Lithuania,LTU,Europe,54219315600,0.06,No,4/2/2025
+Luxembourg,LUX,Europe,71104919108,0.08,Full,1/1/2010
+Luxembourg,LUX,Europe,71104919108,0.08,No,4/2/2025
+Madagascar,MDG,Africa,14083906357,0.02,Full,1/1/2010
+Madagascar,MDG,Africa,14083906357,0.02,No,4/2/2025
+Malawi,MWI,Africa,7666704427,0.01,Full,1/1/2010
+Malawi,MWI,Africa,7666704427,0.01,No,4/2/2025
+Malaysia,MYS,Asia,3.64702E+11,0.4,Full,1/1/2010
+Malaysia,MYS,Asia,3.64702E+11,0.4,No,4/2/2025
+Maldives,MDV,Asia,5729248472,0.01,Full,1/1/2010
+Maldives,MDV,Asia,5729248472,0.01,No,4/2/2025
+Mali,MLI,Africa,17510141171,0.02,Full,1/1/2010
+Mali,MLI,Africa,17510141171,0.02,No,4/2/2025
+Malta,MLT,Europe,14786156563,0.02,Full,1/1/2010
+Malta,MLT,Europe,14786156563,0.02,No,4/2/2025
+Marshall Islands,MHL,Australia,221278000,0,Full,1/1/2010
+Marshall Islands,MHL,Australia,221278000,0,No,4/2/2025
+Mauritania,MRT,Africa,7593752450,0.01,Full,1/1/2010
+Mauritania,MRT,Africa,7593752450,0.01,No,4/2/2025
+Mauritius,MUS,Africa,14180444557,0.02,Full,1/1/2010
+Mauritius,MUS,Africa,14180444557,0.02,No,4/2/2025
+Mexico,MEX,N. America,1.25829E+12,1.37,Full,1/1/2010
+Mexico,MEX,N. America,1.25829E+12,1.37,No,4/2/2025
+Federated States of Micronesia,FSM,Australia,401932279,0,Full,1/1/2010
+Federated States of Micronesia,FSM,Australia,401932279,0,No,4/2/2025
+Moldova,MDA,Europe,11955435457,0.01,Full,1/1/2010
+Moldova,MDA,Europe,11955435457,0.01,No,4/2/2025
+Monaco,MCO,Europe,7184844193,0.01,Full,1/1/2010
+Monaco,MCO,Europe,7184844193,0.01,No,4/2/2025
+Mongolia,MNG,Asia,13852850260,0.02,Full,1/1/2010
+Mongolia,MNG,Asia,13852850260,0.02,No,4/2/2025
+Montenegro,MNE,Europe,5494736901,0.01,Full,1/1/2010
+Montenegro,MNE,Europe,5494736901,0.01,No,4/2/2025
+Morocco,MAR,Africa,1.18725E+11,0.13,Full,1/1/2010
+Morocco,MAR,Africa,1.18725E+11,0.13,No,4/2/2025
+Mozambique,MOZ,Africa,14934159926,0.02,Full,1/1/2010
+Mozambique,MOZ,Africa,14934159926,0.02,No,4/2/2025
+Myanmar,MMR,Asia,76085852617,0.08,Full,1/1/2010
+Myanmar,MMR,Asia,76085852617,0.08,No,4/2/2025
+Namibia,NAM,Africa,12366527719,0.01,Full,1/1/2010
+Namibia,NAM,Africa,12366527719,0.01,No,4/2/2025
+Nauru,NRU,Australia,133000000,0,Full,1/1/2010
+Nauru,NRU,Australia,133000000,0,No,4/2/2025
+Nepal,NPL,Asia,30641380604,0.03,Full,1/1/2010
+Nepal,NPL,Asia,30641380604,0.03,No,4/2/2025
+Netherlands,NLD,Europe,9.0907E+11,0.99,Full,1/1/2010
+Netherlands,NLD,Europe,9.0907E+11,0.99,No,4/2/2025
+New Zealand,NZL,Australia,2.06929E+11,0.22,Full,1/1/2010
+New Zealand,NZL,Australia,2.06929E+11,0.22,No,4/2/2025
+Nicaragua,NIC,N. America,12520915291,0.01,Full,1/1/2010
+Nicaragua,NIC,N. America,12520915291,0.01,No,4/2/2025
+Niger,NER,Africa,12928145120,0.01,Full,1/1/2010
+Niger,NER,Africa,12928145120,0.01,No,4/2/2025
+Nigeria,NGA,Africa,4.4812E+11,0.49,Full,1/1/2010
+Nigeria,NGA,Africa,4.4812E+11,0.49,No,4/2/2025
+North Korea,PRK,Asia,32100000000,0.03,No,1/1/2010
+North Macedonia,MKD,Europe,10220781069,0.01,Full,1/1/2010
+North Macedonia,MKD,Europe,10220781069,0.01,No,4/2/2025
+Norway,NOR,Europe,4.03336E+11,0.44,Full,1/1/2010
+Norway,NOR,Europe,4.03336E+11,0.44,No,4/2/2025
+Oman,OMN,Asia,76983094929,0.08,Full,1/1/2010
+Oman,OMN,Asia,76983094929,0.08,No,4/2/2025
+Pakistan,PAK,Asia,3.044E+11,0.33,Full,1/1/2010
+Pakistan,PAK,Asia,3.044E+11,0.33,No,4/2/2025
+Palau,PLW,Australia,283994900,0,Full,1/1/2010
+Palau,PLW,Australia,283994900,0,No,4/2/2025
+Panama,PAN,N. America,66800800000,0.07,Full,1/1/2010
+Panama,PAN,N. America,66800800000,0.07,No,4/2/2025
+Papua New Guinea,PNG,Australia,24969611435,0.03,Full,1/1/2010
+Papua New Guinea,PNG,Australia,24969611435,0.03,No,4/2/2025
+Paraguay,PRY,S. America,38145288940,0.04,Full,1/1/2010
+Paraguay,PRY,S. America,38145288940,0.04,No,4/2/2025
+Peru,PER,S. America,2.26848E+11,0.25,Full,1/1/2010
+Peru,PER,S. America,2.26848E+11,0.25,No,4/2/2025
+Philippines,PHL,Asia,3.76796E+11,0.41,Full,1/1/2010
+Philippines,PHL,Asia,3.76796E+11,0.41,No,4/2/2025
+Poland,POL,Europe,5.92164E+11,0.64,Full,1/1/2010
+Poland,POL,Europe,5.92164E+11,0.64,No,4/2/2025
+Portugal,PRT,Europe,2.37686E+11,0.26,Full,1/1/2010
+Portugal,PRT,Europe,2.37686E+11,0.26,No,4/2/2025
+Qatar,QAT,Asia,1.83466E+11,0.2,Full,1/1/2010
+Qatar,QAT,Asia,1.83466E+11,0.2,No,4/2/2025
+Romania,ROM,Europe,2.50077E+11,0.27,Full,1/1/2010
+Romania,ROM,Europe,2.50077E+11,0.27,No,4/2/2025
+Russia,RUS,Europe,1.69988E+12,1.85,Full,1/1/2010
+Russia,RUS,Europe,1.69988E+12,1.85,No,2/24/2022
+Rwanda,RWA,Africa,10122472590,0.01,Full,1/1/2010
+Rwanda,RWA,Africa,10122472590,0.01,No,4/2/2025
+Saint Kitts and Nevis,KNA,N. America,1050992593,0,Full,1/1/2010
+Saint Kitts and Nevis,KNA,N. America,1050992593,0,No,4/2/2025
+Saint Lucia,LCA,N. America,2122450630,0,Full,1/1/2010
+Saint Lucia,LCA,N. America,2122450630,0,No,4/2/2025
+Samoa,WSM,Australia,850655017.2,0,Partial,1/1/2010
+Samoa,WSM,Australia,850655017.2,0,Full,5/10/2012
+Samoa,WSM,Australia,850655017.2,0,No,4/2/2025
+San Marino,SMR,Europe,1637931035,0,Full,1/1/2010
+San Marino,SMR,Europe,1637931035,0,No,4/2/2025
+São Tomé and Príncipe,STP,Africa,429016605.2,0,Partial,1/1/2010
+São Tomé and Príncipe,STP,Africa,429016605.2,0,No,4/2/2025
+Saudi Arabia,SAU,Asia,7.92967E+11,0.86,Full,1/1/2010
+Saudi Arabia,SAU,Asia,7.92967E+11,0.86,No,4/2/2025
+Senegal,SEN,Africa,23578084052,0.03,Full,1/1/2010
+Senegal,SEN,Africa,23578084052,0.03,No,4/2/2025
+Serbia,SRB,Europe,51409167351,0.06,Partial,1/1/2010
+Serbia,SRB,Europe,51409167351,0.06,No,4/2/2025
+Seychelles,SYC,Africa,1698843063,0,Partial,1/1/2010
+Seychelles,SYC,Africa,1698843063,0,Full,4/26/2015
+Seychelles,SYC,Africa,1698843063,0,No,4/2/2025
+Sierra Leone,SLE,Africa,3941474311,0,Full,1/1/2010
+Sierra Leone,SLE,Africa,3941474311,0,No,4/2/2025
+Singapore,SGP,Asia,3.72063E+11,0.4,Full,1/1/2010
+Singapore,SGP,Asia,3.72063E+11,0.4,No,4/2/2025
+Slovakia,SVK,Europe,1.05422E+11,0.11,Full,1/1/2010
+Slovakia,SVK,Europe,1.05422E+11,0.11,No,4/2/2025
+Slovenia,SVN,Europe,53742159517,0.06,Full,1/1/2010
+Slovenia,SVN,Europe,53742159517,0.06,No,4/2/2025
+Solomon Islands,SLB,Australia,1425074226,0,Full,1/1/2010
+Solomon Islands,SLB,Australia,1425074226,0,No,4/2/2025
+Somalia,SOM,Africa,4720727278,0.01,Partial,1/1/2010
+Somalia,SOM,Africa,4720727278,0.01,No,4/2/2025
+South Africa,ZAF,Africa,3.51432E+11,0.38,Full,1/1/2010
+South Africa,ZAF,Africa,3.51432E+11,0.38,No,4/2/2025
+South Korea,KOR,Asia,2.029E+12,2.2,Full,1/1/2010
+South Korea,KOR,Asia,2.029E+12,2.2,No,4/2/2025
+South Sudan,SSD,Africa,11997800751,0.01,Partial,1/1/2010
+South Sudan,SSD,Africa,11997800751,0.01,No,4/2/2025
+Spain,ESP,Europe,1.39412E+12,1.51,Full,1/1/2010
+Spain,ESP,Europe,1.39412E+12,1.51,No,4/2/2025
+Sri Lanka,LKA,Asia,84008783756,0.09,Full,1/1/2010
+Sri Lanka,LKA,Asia,84008783756,0.09,No,4/2/2025
+Saint Vincent and the Grenadines,VCT,N. America,825385185.2,0,Full,1/1/2010
+Saint Vincent and the Grenadines,VCT,N. America,825385185.2,0,No,4/2/2025
+Palestinian Authority,PSE,Asia,4015865744,0,Partial,1/1/2010
+Palestinian Authority,PSE,Asia,4015865744,0,No,4/2/2025
+Sudan,SDN,Africa,18902284476,0.02,Full,1/1/2010
+Sudan,SDN,Africa,18902284476,0.02,No,4/2/2025
+Suriname,SUR,S. America,3985250738,0,Full,1/1/2010
+Suriname,SUR,S. America,3985250738,0,No,4/2/2025
+Sweden,SWE,Europe,5.30833E+11,0.58,Full,1/1/2010
+Sweden,SWE,Europe,5.30833E+11,0.58,No,4/2/2025
+Switzerland,CHE,Europe,7.03082E+11,0.76,Full,1/1/2010
+Switzerland,CHE,Europe,7.03082E+11,0.76,No,4/2/2025
+Syria,SYR,Asia,40405006007,0.04,Full,1/1/2010
+Syria,SYR,Asia,40405006007,0.04,No,8/1/2011
+Tajikistan,TJK,Asia,8116626794,0.01,Partial,1/1/2010
+Tajikistan,TJK,Asia,8116626794,0.01,Full,3/2/2013
+Tajikistan,TJK,Asia,8116626794,0.01,No,4/2/2025
+Tanzania,TZA,Africa,63177068175,0.07,Full,1/1/2010
+Tanzania,TZA,Africa,63177068175,0.07,No,4/2/2025
+Thailand,THA,Asia,5.4365E+11,0.59,Full,1/1/2010
+Thailand,THA,Asia,5.4365E+11,0.59,No,4/2/2025
+Timor-Leste,TLS,Asia,1673540300,0,Partial,1/1/2010
+Timor-Leste,TLS,Asia,1673540300,0,Full,8/30/2024
+Timor-Leste,TLS,Asia,1673540300,0,No,4/2/2025
+Togo,TGO,Africa,5459979417,0.01,Full,1/1/2010
+Togo,TGO,Africa,5459979417,0.01,No,4/2/2025
+Tonga,TON,Australia,450353313.9,0,Full,1/1/2010
+Tonga,TON,Australia,450353313.9,0,No,4/2/2025
+Trinidad and Tobago,TTO,N. America,24100202834,0.03,Full,1/1/2010
+Trinidad and Tobago,TTO,N. America,24100202834,0.03,No,4/2/2025
+Tunisia,TUN,Africa,38797709924,0.04,Full,1/1/2010
+Tunisia,TUN,Africa,38797709924,0.04,No,4/2/2025
+Turkey,TUR,Asia,7.54412E+11,0.82,Full,1/1/2010
+Turkey,TUR,Asia,7.54412E+11,0.82,No,4/2/2025
+Turkmenistan,TKM,Asia,40761142857,0.04,Partial,1/1/2010
+Turkmenistan,TKM,Asia,40761142857,0.04,No,4/2/2025
+Tuvalu,TUV,Australia,47271463.3,0,Full,1/1/2010
+Tuvalu,TUV,Australia,47271463.3,0,No,4/2/2025
+Uganda,UGA,Africa,34387229486,0.04,Full,1/1/2010
+Uganda,UGA,Africa,34387229486,0.04,No,4/2/2025
+Ukraine,UKR,Europe,1.53781E+11,0.17,Full,1/1/2010
+Ukraine,UKR,Europe,1.53781E+11,0.17,No,4/2/2025
+United Arab Emirates,ARE,Asia,4.21142E+11,0.46,Full,1/1/2010
+United Arab Emirates,ARE,Asia,4.21142E+11,0.46,No,4/2/2025
+United Kingdom,GBR,Europe,2.82711E+12,3.07,Full,1/1/2010
+United Kingdom,GBR,Europe,2.82711E+12,3.07,No,4/2/2025
+United Kingdom,GBR,Europe,2.82711E+12,3.07,Partial,5/8/2025
+United States,USA,N. America,2.14277E+13,23.26,Full,1/1/2010
+Uruguay,URY,S. America,56045912952,0.06,Full,1/1/2010
+Uruguay,URY,S. America,56045912952,0.06,No,4/2/2025
+Uzbekistan,UZB,Asia,57921286440,0.06,Partial,1/1/2010
+Uzbekistan,UZB,Asia,57921286440,0.06,No,4/2/2025
+Vanuatu,VUT,Australia,917058850.8,0,Partial,1/1/2010
+Vanuatu,VUT,Australia,917058850.8,0,Full,8/24/2012
+Vanuatu,VUT,Australia,917058850.8,0,No,4/2/2025
+Venezuela,VEN,S. America,4.82359E+11,0.52,Full,1/1/2010
+Venezuela,VEN,S. America,4.82359E+11,0.52,No,4/2/2025
+Vietnam,VNM,Asia,2.61921E+11,0.28,Full,1/1/2010
+Vietnam,VNM,Asia,2.61921E+11,0.28,No,4/2/2025
+Vietnam,VNM,Asia,2.61921E+11,0.28,Partial,6/2/2025
+Yemen,YEM,Asia,26914402224,0.03,Partial,1/1/2010
+Yemen,YEM,Asia,26914402224,0.03,Full,6/26/2014
+Yemen,YEM,Asia,26914402224,0.03,No,4/2/2025
+Zambia,ZMB,Africa,23064722446,0.03,Full,1/1/2010
+Zambia,ZMB,Africa,23064722446,0.03,No,4/2/2025
+Zimbabwe,ZWE,Africa,21440758800,0.02,Full,1/1/2010
+Zimbabwe,ZWE,Africa,21440758800,0.02,No,4/2/2025
