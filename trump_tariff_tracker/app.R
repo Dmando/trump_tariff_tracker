@@ -706,9 +706,23 @@ server <- function(input, output, session) {
 # Goal Two Renders
   
   output$Goal_Two_Graph <- renderPlot({
-    plot_manufacturing_function(GPC_dollars,
-                                labs(x = "Daily Reporting", y = "Index Jan 2006 = 100", title = "Nominal Broad U.S. Dollar Index", caption = "Not seasonally adjusted", color = "Legend"),
-                                important_dates)
+
+    GPC_dollars %>% 
+      filter(date > "2021-01-19") %>% 
+      ggplot(aes(x = date)) +
+      geom_point(aes(y = zscore_2yravg), color = "black") +
+      geom_line(aes(y = zscore_2yravg), color = "black", size = 1) + 
+      geom_vline(xintercept = important_dates, 
+                 color = "red", linetype = "dashed", size = 1) +
+      geom_text_repel(
+        data = slice_tail(GPC_dollars, n = 1), aes(y = zscore_2yravg, label = format(date, "%b %d, %y")), size = 3, nudge_x = -300) +
+      annotate("rect", xmin = as_date("2021-01-01"), xmax = today() + months(3), ymin = -Inf, ymax = -1, fill = "red", alpha = 0.2) +
+      annotate("rect", xmin = as_date("2021-01-01"), xmax = today() + months(3), ymin = 1, ymax = Inf, fill = "green", alpha = 0.2) +
+      labs(x = "Monthly Reporting", y = "Z score", title = "Nominal Broad U.S. Dollar Index", caption = "Weighted Average") +
+      theme(panel.grid.major = element_line(color = "black",
+                                            size = 0.5,
+                                            linetype = 2)) +
+      coord_cartesian(ylim=c(-2,2))
   })
   
   output$military_spending <- renderPlot({
