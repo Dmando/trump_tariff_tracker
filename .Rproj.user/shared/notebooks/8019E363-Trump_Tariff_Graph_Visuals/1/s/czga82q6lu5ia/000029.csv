@@ -1,0 +1,29 @@
+"0","adherence <- read_csv(""trump_tariff_tracker/Data/TTT_Countries.csv"")"
+"2","[1mRows: [22m[34m396[39m [1mColumns: [22m[34m7[39m
+"
+"2","[36m──[39m [1mColumn specification[22m [36m────────────────────────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m (5): Country, Abbreviation, Continent, Adherence, Date
+[32mdbl[39m (2): GDP, GDP Percentage
+"
+"2","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","adherence$Date <- mdy(adherence$Date)"
+"0","all_quarters <- seq(floor_date(min(adherence$Date), ""quarter""),"
+"0","                    floor_date(max(adherence$Date), ""quarter""),"
+"0","                    by = ""quarter"")"
+"0",""
+"0","adherence <- adherence %>% "
+"0","  mutate(date = floor_date(Date, ""quarter"")) %>%"
+"0","  group_by(Country) %>%"
+"0","  complete(date = all_quarters) %>%  "
+"0","  arrange(Country, date) %>%"
+"0","  fill(Adherence, `GDP Percentage`, .direction = ""down"") %>%"
+"0","  group_by(date, Adherence) %>% "
+"0","  summarise(`GDP Percentage` = sum(`GDP Percentage`), .groups = ""drop"") %>%  "
+"0","  arrange(date) %>% "
+"0","  pivot_wider(names_from = Adherence, values_from = `GDP Percentage`) %>% "
+"0","  mutate(Stable = No + Partial)"
+"0","write_csv(adherence, ""./trump_tariff_tracker/Data/goal_three_data.csv"")"
