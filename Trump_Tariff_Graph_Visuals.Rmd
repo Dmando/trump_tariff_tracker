@@ -8,7 +8,7 @@ output:
 ```{r}
 library(tidyverse)
 library(usethis)
-library(fredr) # 617719613982d1c6f53c7cd614d5ce59
+library(fredr)
 library(hrbrthemes)
 library(extrafont)
 library(zoo)
